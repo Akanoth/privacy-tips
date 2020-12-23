@@ -4,7 +4,7 @@
 Nas, dwóch autorów, łączy ważny cel – nauczyć ludzi dbać o samych siebie w internecie, czerpać z jego dobrodziejstw i unikać jego wad.
 Chcemy, niczym Mickiewicz z "Panem Tadeuszem", by troska o prywatność i bezpieczeństwo trafiła "pod strzechy". Stąd też pomysł na ten poradnik.
 
-Kładziemy nacisk nie tylko na merytorykę treści i ich praktyczność, ale również przyjemność i estetykę użytkowania tej strony. Całość dzieli się na przejrzyste kategorie, które z kolei zawierają trzy warstwy porad: pierwsza to absolutne minimum (polecane każdemu), druga wymaga trochę działania (przydałoby się już troszeczkę wiedzy w tym temacie), natomiast trzecia kierowana jest do osób, które być może jeszcze bardziej niż my cenią sobie prywatność (dość zaawansowany poziom, idea czasem kłóci się z praktycznością użytkowania). 
+Kładziemy nacisk nie tylko na merytorykę treści i ich praktyczność, ale również przyjemność i estetykę użytkowania tej strony. Całość dzieli się na przejrzyste kategorie, które z kolei (w większości) zawierają trzy warstwy porad: pierwsza to absolutne minimum (polecane każdemu), druga wymaga trochę działania (przydałoby się już troszeczkę wiedzy w tym temacie), natomiast trzecia kierowana jest do osób, które być może jeszcze bardziej niż my cenią sobie prywatność (dość zaawansowany poziom, idea czasem kłóci się z praktycznością użytkowania). 
 
 Miłej zabawy!
 
@@ -13,3 +13,7 @@ Miłej zabawy!
 * [Wyszukiwarki](#Wyszukiwarki)
 
 ## Wyszukiwarki
+* Poziom pierwszy:
+  - [Whoogle Search](https://whoogle.sdf.org/) – nowość, zapewniająca pozycjonowanie prosto Google, co jest jej największym plusem i co sprawia, że jeden z nas jej używa na codzień. Problematyczny jest jedynie fakt, że narzędzie nie działa bez JavaScripta, stąd "tylko" poziom pierwszy. [Link do GitHuba Whoogle](https://github.com/benbusby/whoogle-search)
+* Poziom drugi:
+  - [DuckDuckGo](https://duckduckgo.com/) – legendarna, bezpieczna i przez wszysktich polecana kaczuszka. Pozycjonowanie bywa toporne, lecz jest to pewniak pod kątem prywatności.
