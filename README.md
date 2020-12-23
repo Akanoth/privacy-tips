@@ -10,6 +10,6 @@ Miłej zabawy!
 
 
 ## SPIS TREŚCI
-* [Wyszukiwarki] (#Wyszukiwarki)
+* [Wyszukiwarki](#Wyszukiwarki)
 
 ## Wyszukiwarki
