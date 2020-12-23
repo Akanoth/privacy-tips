@@ -9,7 +9,7 @@ Kładziemy nacisk nie tylko na merytorykę treści i ich praktyczność, ale ró
 Miłej zabawy!
 
 
-##SPIS TREŚCI
-*[Wyszukiwarki] (#wyszukiwarki)
+## SPIS TREŚCI
+* [Wyszukiwarki] (#wyszukiwarki)
 
 #Wyszukiwarki
